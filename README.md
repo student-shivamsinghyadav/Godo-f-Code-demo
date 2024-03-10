@@ -1,2 +1,2 @@
-# Godo-f-Code-demo
+# God-of-Code-demo
 This is my first Repository.
